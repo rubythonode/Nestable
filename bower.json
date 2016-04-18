@@ -1,18 +1,13 @@
 {
-  "name": "nestable-tree",
-  "version": "1.0.0",
-  "homepage": "https://github.com/LavaLite/Nestable",
+  "name": "nestable2",
   "authors": [
     "George John <george@renfos.com>"
   ],
   "description": "Drag & drop hierarchical list with mouse and touch compatibility",
   "main": "jquery.nestable.js",
-  "keywords": [
-    "jQuery",
-    "Nestable"
-    "tree"
-  ],
+  "moduleType": [],
   "license": "MIT",
+  "homepage": "https://github.com/LavaLite/Nestable",
   "ignore": [
     "**/.*",
     "node_modules",
